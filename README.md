@@ -145,6 +145,17 @@ This project is suitable for:
 - Deployment on cloud platforms
 
 ---
+## 📷 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home_page.png)
+
+### Output
+
+![Output](screenshots/chatbot_output.png)
+
+---
 
 ## 👨‍💻 Author
 
