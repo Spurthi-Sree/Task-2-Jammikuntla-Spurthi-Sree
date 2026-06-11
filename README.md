@@ -146,21 +146,6 @@ This project is suitable for:
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/
-├── home_page.png
-├── prediction_result.png
-├── analytics_dashboard.png
-```
-
----
-
 ## 👨‍💻 Author
 
 **Jammikuntla Spurthi Sree**  
